@@ -1,0 +1,8 @@
+Zadanie 1
+Średni czas odpowiedzi dla kodu bazowego: 3469ms
+Zmieniłem sposób liczenia średniej.
+Średni czas odpowiedzi dla kodu po modyfikacji: 6ms
+
+Zadanie 2
+1) 1.995 kart na sekundę
+2) 30 drukarek, bo dla 10 przepusowość 2/s, dla 20 - 4/s 
